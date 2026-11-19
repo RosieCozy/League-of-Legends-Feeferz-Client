@@ -68,7 +68,6 @@ Small overlays that sit on top of the game. Drag them anywhere, or turn them off
 - In-game strip with the gold difference and your next item
 - CS per minute tracker against your lane opponent
 
-![Overlay](screenshots/overlay.png)
 
 ## Plugins
 
