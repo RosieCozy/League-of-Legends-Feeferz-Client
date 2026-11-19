@@ -9,7 +9,7 @@
   <a href="https://github.com/RosieCozy/League-of-Legends-Feeferz-Client/releases"><img src="https://img.shields.io/github/downloads/RosieCozy/League-of-Legends-Feeferz-Client/total?label=Downloads&style=flat&color=f7b6d2" alt="Downloads"></a>
 </div>
 
-![Feeferz Client](screenshots/hero.png)
+![Feeferz Client](screenshots/main.png)
 
 ## Download
 
