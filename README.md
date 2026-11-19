@@ -1,12 +1,19 @@
-# Feeferz Client
+<div align="center">
+  <img src="logo.png" width="128" height="128" alt="Feeferz Client">
 
-A free League of Legends companion app for Windows. Builds, live champ select help, player lookups, the full League shop and more, in one light app that looks like the League client.
+  # Feeferz Client
+
+  A free League of Legends companion app for Windows. Builds, live champ select help, player lookups, the full League shop and more, in one light app that looks like the League client.
+
+  <a href="https://github.com/RosieCozy/League-of-Legends-Feeferz-Client/releases/latest"><img src="https://img.shields.io/github/v/release/RosieCozy/League-of-Legends-Feeferz-Client?label=Latest&style=flat&color=f7b6d2" alt="Latest version"></a>
+  <a href="https://github.com/RosieCozy/League-of-Legends-Feeferz-Client/releases"><img src="https://img.shields.io/github/downloads/RosieCozy/League-of-Legends-Feeferz-Client/total?label=Downloads&style=flat&color=f7b6d2" alt="Downloads"></a>
+</div>
 
 ![Feeferz Client](screenshots/hero.png)
 
 ## Download
 
-Grab the latest version from **[Releases](../../releases/latest)**:
+Grab the latest version from **[Releases](https://github.com/RosieCozy/League-of-Legends-Feeferz-Client/releases/latest)**:
 
 - **FeeferzClient-Setup.exe**: installs for your account, no admin needed
 - **FeeferzClient-win64.zip**: no install, unzip and run
@@ -14,6 +21,31 @@ Grab the latest version from **[Releases](../../releases/latest)**:
 Feeferz updates itself, so you only need to download it once.
 
 Needs Windows 10 or 11 and League of Legends. To see the in-game overlay, set League to Borderless.
+
+## Builds
+
+- Every champion's best build for your rank, plus most played and off-meta builds
+- Runes, item sets, matchups and a guide
+- One-tricks: the top players on each champion, their recent games and latest builds
+- Tier list by lane
+- Every item with stats, cost and who builds it best
+- TFT comps
+
+![Builds](screenshots/builds.png)
+
+## League Shop
+
+The whole store in one place, laid out like the client.
+
+- Skins and sales, limited and legacy skins, wards
+- The Sanctum and the Mythic shop, with time left on everything
+- Your skin shards and what each costs to unlock
+- The TFT store
+- Owned items marked, rarity gems, full art
+
+![League Shop](screenshots/shop.png)
+
+![The Sanctum](screenshots/sanctum.png)
 
 ## Live
 
@@ -30,16 +62,13 @@ Follows you from champ select into the game.
 
 ![Live](screenshots/live.png)
 
-## Builds
+### In game
 
-- Every champion's best build for your rank, plus most played and off-meta builds
-- Runes, item sets, matchups and a guide
-- One-tricks: the top players on each champion, their recent games and latest builds
-- Tier list by lane
-- Every item with stats, cost and who builds it best
-- TFT comps
+Small overlays that sit on top of the game. Drag them anywhere, or turn them off.
 
-![Builds](screenshots/builds.png)
+- Champ select panel next to the client
+- In-game strip with the gold difference and your next item
+- CS per minute tracker against your lane opponent
 
 ## Player search
 
@@ -48,27 +77,9 @@ Follows you from champ select into the game.
 - Seasons: rank and record for this season, past seasons and all time
 - Insights that learn your playstyle, strengths and weaknesses from your own games
 
-## League Shop
+## Patch notes
 
-The whole store in one place, laid out like the client.
-
-- Skins and sales, limited and legacy skins, wards
-- The Sanctum and the Mythic shop, with time left on everything
-- Your skin shards and what each costs to unlock
-- The TFT store
-- Owned items marked, rarity gems, full art
-
-![League Shop](screenshots/shop.png)
-
-## In game
-
-Small overlays that sit on top of the game. Drag them anywhere, or turn them off.
-
-- Champ select panel next to the client
-- In-game strip with the gold difference and your next item
-- CS per minute tracker against your lane opponent
-
-![Overlay](screenshots/overlay.png)
+League's patch notes with your most played champions first, plus Feeferz's own notes. Everything new in each version is also on the **[Releases](https://github.com/RosieCozy/League-of-Legends-Feeferz-Client/releases)** page.
 
 ## Plugins
 
@@ -79,20 +90,16 @@ Optional extras. Install only what you want, uninstall any time.
 
 ![Plugins](screenshots/plugins.png)
 
-## Looks like League
+## Settings
 
-- The League client's own fonts and colours
-- Matches the size of your League client window
 - Dark, Light and League client themes, with your profile background, the Summoner's Rift forest, or plain
-- Settings apply as you change them
+- The League client's own fonts, and the same size as your League client window
+- Overlay keys, positions and opacity
+- Changes show right away. Save to keep them
 
 ## Lightweight
 
 Built in C++. Uses almost no CPU while idle and starts fast. Nothing is downloaded until you use it.
-
-## Patch notes
-
-League's patch notes with your most played champions first, plus Feeferz's own notes. Everything new in each version is on the **[Releases](../../releases)** page.
 
 ---
 
