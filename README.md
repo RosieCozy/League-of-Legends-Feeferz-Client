@@ -15,8 +15,7 @@
 
 Grab the latest version from **[Releases](https://github.com/RosieCozy/League-of-Legends-Feeferz-Client/releases/latest)**:
 
-- **FeeferzClient-Setup.exe**: installs for your account, no admin needed
-- **FeeferzClient-win64.zip**: no install, unzip and run
+- **FeeferzClient-Setup.exe**: installs for your account
 
 Feeferz updates itself, so you only need to download it once.
 
