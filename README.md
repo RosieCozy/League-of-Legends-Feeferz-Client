@@ -19,21 +19,21 @@ Windows 10 or 11. Set League to Borderless for the in-game overlay.
 
 ## What it does
 
-**Builds**: runes, items, skill order, matchups and a tier list for every champion, by rank and lane. Off-meta shows odd builds that won games. Import runes and item sets into the client in one click.
-
-![Builds](screenshots/builds.png)
-
 **Live**: in champ select, your lane opponent, counters and builds ready to import. In game, everyone's rank and a small overlay with gold difference and CS. Between games, your playstyle compared to others in your role.
 
 ![Live](screenshots/live.png)
 
-**Players**: look up anyone's rank, match history and seasons.
+**Builds**: runes, items, skill order, matchups and a tier list for every champion, by rank and lane. Off-meta shows odd builds that won games. Import runes and item sets into the client in one click.
+
+![Builds](screenshots/builds.png)
 
 **Shop**: every skin with prices and sales, the Sanctum, the Mythic shop and your skin shards.
 
 ![League Shop](screenshots/shop.png)
 
 ![The Sanctum](screenshots/sanctum.png)
+
+**Players**: look up anyone's rank, match history and seasons.
 
 **Plugins** (optional): Mod Loader for custom skins through LTK Manager, and Discord Rich Presence.
 
